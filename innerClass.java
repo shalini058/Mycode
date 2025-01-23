@@ -2,7 +2,7 @@ public class innerClass
 {
 	public static void main(String[] args) {
 		A obj=new A();
-		obj.show();
+		obj.show(); //if we make static inner class then we don't need object for outer class , because we can access it without creating an object of the outer class. 
 		A.B obj1= new A.B();// here to access the inner class, create an object of the outer class, and then create an object of the inner class
 		obj1.dance();
 		
