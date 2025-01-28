@@ -30,4 +30,3 @@ public class exampleOfExceptions
 		System.out.println(b);
 	}
 }
-
