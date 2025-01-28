@@ -7,6 +7,8 @@
 *******************************************************************************/
 //If the statement is critical, then to handle the exception we need to try to execute the code.
 
+//Arithmetic Exception
+
 public class exampleOfExceptions
 {
 	public static void main(String[] args) {
