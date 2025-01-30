@@ -1,4 +1,4 @@
-// User Input 
+// About some user inputs
 
 //using buffer reader we can read text from a character-input stream, buffering characters to provide efficient reading of characters, arrays, and lines.
 // It is particularly useful when wrapping around a Reader whose read operations may be costly, such as FileReaders and InputStreamReaders.
